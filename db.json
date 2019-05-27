@@ -20,5 +20,17 @@
         "Aficiones": ["Teatro", "Cine", "Fútbol"],
         "Residencia": "Madrid"
         }
+         {
+        "Nombre" : "JAvier",
+        "Edad": 50,
+        "Aficiones": ["Música", "Cine"],
+        "Residencia": "VLC"
+        },
+        {
+        "Nombre" : "Alicia",
+        "Edad": 31,
+        "Aficiones": ["Teatro", "Cine", "Fútbol"],
+        "Residencia": "BCN"
+        }
     ]
 }
